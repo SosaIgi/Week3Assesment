@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week3Assesment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rock">Rock</string>
+    <string name="classic">Classic</string>
+    <string name="pop">Pop</string>
+    <string name="oh_no">Oh No!!</string>
+    <string name="no_internet_connection_found">No Internet Connection Found!</string>
+    <string name="try_again">Try Again!</string>
+    <string name="reconnect">Reconnect!</string>
+</resources>
